@@ -29,7 +29,7 @@ this.addEventListener("activate", (event) => {
 /**
  * while fetching - 
  * if internet is available :-
- * then data will be fetched from server and stored in cache with unique name,
+ * then data will be fetched from server and stored in cache,
  * if internet is not available :-
  * then data will be fetched from cached result
  *  
