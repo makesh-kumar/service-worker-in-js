@@ -1,0 +1,18 @@
+body {
+  background-color: cadetblue;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  height: 100px;
+  width: 100px;
+  border: 1px solid greenyellow;
+  background-color: rgb(112, 112, 199);
+}
